@@ -1,1 +1,2 @@
 This is inserted by GitDesktop app second time!
+And now try to do it with GitBash!
